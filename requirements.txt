@@ -1,4 +1,7 @@
-# requirements.txt
 fastapi
 uvicorn
-httpx
+duckdb
+pandas
+pyarrow
+huggingface_hub
+requests
